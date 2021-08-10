@@ -59,12 +59,12 @@ namespace GAMESA_01
                     FgGearbox = 451260,
                     AxialPreload = 500000,
                     n = 10.0 / 3.0,
-                    StiffnesCoefficient_a = 15655987,
-                    StiffnesCoefficient_b = 6850690,
-                    StiffnesCoefficient_c = 514584,
-                    StiffnesCoefficient_d = 3376964,
-                    StiffnesCoefficient_e = -3130495,
-                    StiffnesCoefficient_f = 494685,
+                    StiffnesCoefficient_a = 16809759.7,
+                    StiffnesCoefficient_b = 7650757.1,
+                    StiffnesCoefficient_c = 516149.5,
+                    StiffnesCoefficient_d = 7652307.4,
+                    StiffnesCoefficient_e = -4633025.6,
+                    StiffnesCoefficient_f = 495385.3,
                     FMB = new BearingParametersColection()
                     {
                         ContactAngle = 19,
