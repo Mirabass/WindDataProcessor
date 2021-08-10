@@ -33,7 +33,7 @@ namespace GAMESA_01
                             @"\\brn-fs-01\DATA _ZKL\Data\ZKL VaV\ZKL_dokumenty\PROJEKTY\Spanelsko\Gamesa - loziska hlavniho hridele\SG5x\OneDrive_2020-04-17\PRJ-6076"
                         )}
                 };
-                const int choosedSettings = 1;
+                const int choosedSettings = 3;
                 string loadCasesTimeShareFilePath = pathSettings[choosedSettings].Item1;
                 Console.WriteLine($"You set: {loadCasesTimeShareFilePath}");
                 Console.WriteLine("Path to the Project Directory: ");
@@ -73,9 +73,9 @@ namespace GAMESA_01
                     },
                     RMB = new BearingParametersColection()
                     {
-                        ContactAngle = 11,
+                        ContactAngle = 14,
                         Z = 62,
-                        Arm_a = 208.2
+                        Arm_a = 250.25
                     }
                 };
 
